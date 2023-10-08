@@ -30,7 +30,7 @@ def prediction_cls(prediction):
 
 with st.sidebar:
         st.image('mg.png')
-        st.title("Dermatrix")
+        st.title("Derm Detect")
         st.subheader("Accurate detection of skin diseases present with suggestion of remedies to cure them.")
 
              
